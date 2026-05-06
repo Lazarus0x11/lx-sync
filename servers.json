@@ -1,13 +1,13 @@
 [
-  { "label": "Server 1", "dns": "suprbigo.xyz" },
-  { "label": "Server 2", "dns": "pantypalace.com" },
-  { "label": "Server 3", "dns": "iptv.pantypalace.net" },
-  { "label": "Server 4", "dns": "tirvo.me" },
-  { "label": "Server 5", "dns": "likan.me" },
-  { "label": "Server 6", "dns": "btkq72.net" },
-  { "label": "Server 7", "dns": "gndk28.xyz" },
-  { "label": "Server 8", "dns": "xrf98.com" },
-  { "label": "Server 9", "dns": "line.4smart.in" },
-  { "label": "Server 10", "dns": "teck-tv.com" },
-  { "label": "Server 11", "dns": "activefrance.net" }
+  { "dns": "suprbigo.xyz" },
+  { "dns": "pantypalace.com" },
+  { "dns": "iptv.pantypalace.net" },
+  { "dns": "tirvo.me" },
+  { "dns": "likan.me" },
+  { "dns": "btkq72.net" },
+  { "dns": "gndk28.xyz" },
+  { "dns": "xrf98.com" },
+  { "dns": "line.4smart.in" },
+  { "dns": "teck-tv.com" },
+  { "dns": "activefrance.net" }
 ]
